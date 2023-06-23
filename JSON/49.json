@@ -1,0 +1,19 @@
+{
+    "name": "DevsNFTS #49",
+    "description": "This is a NFT collection containing 15 Silver, 15 Gold, 15 Platinum, 05 Diamond Collectibles",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYhVGrz6DCyS9wFkFooijVZunuQjreCkUxmTeUxHBzpy3/49.jpg",
+    "edition": 1,
+    "artist": "DevsArtist",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "Diamond"
+        },
+        {
+            "itemType": "Diamond"
+        },
+        {
+            "itemNumber": "49"
+        }
+    ]
+}
